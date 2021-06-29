@@ -26,4 +26,4 @@ Sumber data: httparchive dan Chrome UX Report
 
 ## Talenta Tersedia?
 
-# Dan lain-lain
+## Dan lain-lain
